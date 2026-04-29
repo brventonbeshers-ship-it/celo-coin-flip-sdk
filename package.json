@@ -1,6 +1,6 @@
 {
   "name": "celo-coin-flip-sdk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "TypeScript SDK for the Celo Coin Flip MiniApp",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
